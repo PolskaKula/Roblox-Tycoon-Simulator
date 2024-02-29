@@ -3,7 +3,10 @@ guid: 3f62e1d89d9afa9499d1eb36d626f88b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Body: {instanceID: 0}
+  - Cash: {fileID: 8300000, guid: 3586fe717169ec34987b99291224f8b2, type: 3}
+  - Beep: {fileID: 8300000, guid: 530130f9a57b1364e94bb8c3dc178d5d, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
